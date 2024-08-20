@@ -1,4 +1,4 @@
-# Image Segmentation, Identification, and Analysis Pipeline
+# Image Segmentation, Identification, and Analysis 
 
 ## Overview
 
