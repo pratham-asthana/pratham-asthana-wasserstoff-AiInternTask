@@ -63,7 +63,7 @@ object-segmentation-and-identification/
 ├── data/                  # Sample images and data for testing
 ├── README.md              # Project documentation
 └── .gitignore             # Ignored files
-
+```
 ## Technologies Used
 
 - **Python**: Core programming language for developing the project.
